@@ -7,11 +7,9 @@
 ## Education
 
 **Indira Gandhi Delhi Technical University for Women (IGDTUW)** — Delhi
-
 B.Tech in Computer Science and Engineering, CGPA: 8.18 | 2024 – 2028
 
 **Govt. Girls Senior Secondary School** — Delhi
-
 Class XII: 75% (2022) | Class X: 83% (2020)
 
 ---
@@ -49,14 +47,12 @@ Class XII: 75% (2022) | Class X: 83% (2020)
 ### Intern, Full Stack Development & Generative AI | Summer 2026
 
 **Anveshan Foundation, IGDTUW** — Delhi
-
-- Developed Multi-Agent GD, an AI-powered group discussion practice platform, using Node.js, Express.js, MongoDB and Generative AI
+- Developed Multi-Agent GD, AI-powered group discussion practice platform, using Node.js, Express.js, MongoDB and Generative AI
 - Integrated multiple AI participants, AI-generated responses and live discussion transcripts into one smooth discussion flow
 
 ### Member, Event Management Team | 2024
 
 **Synergy Sports Society, IGDTUW** — Delhi
-
 - Planned and ran logistics for 20+ college-level events, coordinating student teams and schedules
 
 ---
