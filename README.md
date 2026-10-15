@@ -7,9 +7,11 @@
 ## Education
 
 **Indira Gandhi Delhi Technical University for Women (IGDTUW)** — Delhi
+
 B.Tech in Computer Science and Engineering, CGPA: 8.18 | 2024 – 2028
 
 **Govt. Girls Senior Secondary School** — Delhi
+
 Class XII: 75% (2022) | Class X: 83% (2020)
 
 ---
